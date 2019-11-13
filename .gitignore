@@ -1,0 +1,5 @@
+spotoken.py
+.cache*
+*.npy
+__pycache__
+*.pyc
